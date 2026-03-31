@@ -1,0 +1,18 @@
+# Fichiers système (Inutiles à partager)
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dossiers temporaires de ton éditeur (ex: VS Code)
+.vscode/
+.idea/
+
+# Fichiers de données ou logs volumineux
+*.log
+*.tmp
+/data/
+
+# Fichiers Python (si tu en fais plus tard)
+__pycache__/
+*.pyc
+.env
