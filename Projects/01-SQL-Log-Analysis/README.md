@@ -21,3 +21,10 @@ Dans le cadre de ma formation, j'ai simulé le rôle d'un analyste de sécurité
 ```sql
 SELECT * FROM log_in_attempts 
 WHERE login_time > '18:00:00' AND success = 0;
+
+
+---
+## 🏆 Certification de Réussite
+Ce projet a été réalisé et validé dans le cadre du certificat professionnel Google Cybersecurity. 
+Vous pouvez consulter ma certification officielle via le lien suivant :
+👉 **[Consulter mon certificat SQL sur Coursera](https://coursera.org/share/398ab30a6312542f3e175a70f08a9e26)**
